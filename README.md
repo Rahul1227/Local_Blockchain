@@ -1,12 +1,12 @@
 # Local_Blockchain
 This project demonstrates the setup and configuration of a private blockchain network using Geth (Go Ethereum) and Ganache for local development and testing purposes.
 
-Technologies Used
+**Technologies Used**
 Geth (Go Ethereum): Geth is the official Go implementation of the Ethereum protocol. It is used to create and manage Ethereum nodes in our private blockchain network.
 
 Ganache: Ganache is a personal blockchain for Ethereum development that you can use to deploy contracts, develop your applications, and run tests.
 
-Prerequisites
+**Prerequisites**
 Before you can start using this project, you'll need the following prerequisites:
 
 Install Geth: You can download and install Geth from the official Ethereum website (Download Geth).
@@ -18,7 +18,7 @@ Clone this repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/your-username/your-private-blockchain.git
+git clone https://github.com/Rahul1227/Local_Blockchain.git
 Navigate to the project directory:
 
 bash
